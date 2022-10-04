@@ -1,4 +1,4 @@
-# None (Generic) Bundle Template
+# Kafka Bundle Template
 
 [Enter your header description here. Try to limit to two (2) lines. Delete this line.]
 
@@ -7,7 +7,7 @@
 [Enter your bundle name below and delete this line.]
 
 ```bash
-install_bundle -download bundle-none-...
+install_bundle -download bundle-kafka-...
 ```
 
 ## Use Case
