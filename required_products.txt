@@ -23,6 +23,7 @@ kafka=3
 #hazelcast-enterprise=
 #jet=
 #jet-enterprise=
+#mosquitto=
 #none=
 #pado=
 #redis=
